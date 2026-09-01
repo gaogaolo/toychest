@@ -1,5 +1,7 @@
 name: Deploy Toy Chest Editor
 
+# This workflow deploys the repository root after GitHub Pages is enabled in Settings.
+
 on:
   push:
     branches: [main]
